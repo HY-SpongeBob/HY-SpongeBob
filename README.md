@@ -1,20 +1,20 @@
-
+<div align="center">
 
 # SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing
 
-[arXiv](https://arxiv.org/abs/2505.XXXXX)
-[Project Page](https://hy-spongebob.github.io/)
-[License](LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2505.XXXXX)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://hy-spongebob.github.io/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
 **The first end-to-end framework for joint audio-visual editing within a unified dual-stream diffusion process.**
 
-[Sen Liang]()1,2†, [Cong Wang]()2†, [Fengbin Guan]()1, [Zhentao Yu]()2, [Yiting Lu]()1, [Yuanzhi Wang]()2, [Yuan Zhou]()2, [Xin Li]()1, [Zhibo Chen]()1\*
+[Sen Liang]()\*<sup>1,2†</sup>, [Cong Wang]()\*<sup>2†</sup>, [Fengbin Guan]()<sup>1</sup>, [Zhentao Yu]()<sup>2</sup>, [Yiting Lu]()<sup>1</sup>, [Yuanzhi Wang]()<sup>2</sup>, [Yuan Zhou]()<sup>2</sup>, [Xin Li]()<sup>1</sup>, [Zhibo Chen]()<sup>1\*</sup>
 
-1University of Science and Technology of China    2Tencent Hunyuan
+<sup>1</sup>University of Science and Technology of China &nbsp;&nbsp; <sup>2</sup>Tencent Hunyuan
 
-†Equal contribution    \*Corresponding author
+<sup>†</sup>Equal contribution &nbsp;&nbsp; <sup>\*</sup>Corresponding author
 
-
+</div>
 
 ---
 
@@ -28,13 +28,13 @@
 
 ## 🚀 TODO
 
-- Release paper on arXiv
-- Release project page with demos
-- Release inference code
-- Release pretrained model weights
-- Release training code
-- Release SpongeBob-Bench evaluation toolkit
-- Release data pipeline code
+- [x] Release paper on arXiv
+- [x] Release project page with demos
+- [ ] Release inference code
+- [ ] Release pretrained model weights
+- [ ] Release training code
+- [ ] Release SpongeBob-Bench evaluation toolkit
+- [ ] Release data pipeline code
 
 ---
 
