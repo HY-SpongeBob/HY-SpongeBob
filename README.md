@@ -47,7 +47,7 @@ If you find this work useful, please consider citing:
   title={SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing},
   author={Liang, Sen and Wang, Cong and Guan, Fengbin and Yu, Zhentao and Lu, Yiting and Wang, Yuanzhi and Zhou, Yuan and Li, Xin and Chen, Zhibo},
   journal={arXiv preprint arXiv:2605.25193},
-  year={2025}
+  year={2026}
 }
 ```
 
