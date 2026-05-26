@@ -2,7 +2,7 @@
 
 # SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing
 
-[![arXiv](https://img.shields.io/badge/arXiv-2505.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2505.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.25193-b31b1b.svg)](https://arxiv.org/abs/2605.25193)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://hy-spongebob.github.io/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
@@ -46,7 +46,7 @@ If you find this work useful, please consider citing:
 @article{liang2025spongebob,
   title={SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing},
   author={Liang, Sen and Wang, Cong and Guan, Fengbin and Yu, Zhentao and Lu, Yiting and Wang, Yuanzhi and Zhou, Yuan and Li, Xin and Chen, Zhibo},
-  journal={arXiv preprint arXiv:2505.XXXXX},
+  journal={arXiv preprint arXiv:2605.25193},
   year={2025}
 }
 ```
